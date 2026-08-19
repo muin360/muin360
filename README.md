@@ -111,7 +111,7 @@ Continuously improving my skills in:
 [🌐 Portfolio](https://tensorstudio.vercel.app) •
 [📘 Facebook Page](https://www.facebook.com/profile.php?id=61588840534814) •
 [🐙 GitHub](https://github.com/muin360) •
-[✉️ Email](arefinmueen360@gmail.com)
+[✉️ Email](mailto:arefinmueen360@gmail.com)
 
 ---
 
