@@ -29,21 +29,42 @@ Building scraping, processing, and data-driven automation workflows.
 
 ## ⚙️ Tech Stack
 
-### AI & Automation
+### 🤖 AI & Automation
 
-`n8n` `LangFlow` `GoHighLevel` `OpenAI` `Google Gemini`
+`n8n` `LangFlow` `GoHighLevel` `OpenAI` `Google Gemini` `Claude` `Mistral AI` `LangChain` `AI Agents` `Prompt Engineering`
 
-### Programming
+### 💻 Programming
 
-`Python` `JavaScript`
+`Python` `JavaScript` `TypeScript` `HTML` `CSS`
 
-### Backend & Data
+### 🔗 APIs & Integrations
 
-`REST APIs` `MongoDB` `Next.js`
+`REST APIs` `Webhooks` `JSON` `OAuth` `API Integrations` `Third-Party Integrations`
 
-### Tools
+### 🗄️ Backend & Data
 
-`Git` `GitHub` `Vercel`
+`MongoDB` `MongoDB Atlas` `Next.js` `Node.js` `Database Design` `Server-side APIs`
+
+### 🛒 Business & E-commerce
+
+`WooCommerce` `WordPress` `E-commerce Automation` `CRM Automation` `Lead Automation` `Business Workflows`
+
+### 🌐 Web & Scraping
+
+`Web Scraping` `Data Extraction` `Automation Scripts` `Browser Automation`
+
+### 🛠️ Tools & Platforms
+
+`Git` `GitHub` `Vercel` `Docker` `ngrok` `Postman` `VS Code`
+
+### 🔐 Security & Production
+
+`Authentication` `Authorization` `Rate Limiting` `API Security` `Input Validation` `Environment Variables` `Production Hardening`
+
+### 🧩 Workflow Concepts
+
+`Event-driven Automation` `Multi-step Workflows` `Agentic Workflows` `Tool Calling` `Data Pipelines` `Error Handling` `Monitoring`
+
 
 ---
 
