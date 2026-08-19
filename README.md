@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Arefin Mueen 👋
 
-<!--
-**muin360/muin360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Agents & Automation Systems ⚡
 
-Here are some ideas to get you started:
+I build intelligent automation systems, AI agents, and business workflows that turn repetitive processes into reliable, scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build
+
+* 🤖 AI Agents & Agentic Workflows
+* ⚡ Business & Workflow Automation
+* 🔗 API & Third-Party Integrations
+* 🛒 E-commerce Automation
+* 🕷️ Web Scraping & Data Automation
+* 🧠 AI-powered Business Solutions
+
+### Tech Stack
+
+**AI & Automation:**
+n8n • LangFlow • GoHighLevel • OpenAI • Gemini
+
+**Programming:**
+Python • JavaScript
+
+**Web & Backend:**
+Next.js • REST APIs • MongoDB
+
+**Tools & Platform:**
+Git • GitHub • Vercel
+
+### Featured Work
+
+🚀 **AI Automation Portfolio**
+My personal portfolio and AI automation platform.
+
+🔗 https://tensorstudio.vercel.app
+
+### Currently Building
+
+AI agents and automation systems focused on turning real-world business processes into intelligent workflows.
+
+### Connect
+
+🌐 Portfolio: https://tensorstudio.vercel.app
+🐙 GitHub: https://github.com/muin360
