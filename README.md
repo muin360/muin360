@@ -2,43 +2,96 @@
 
 ### AI Agents & Automation Systems ⚡
 
-I build intelligent automation systems, AI agents, and business workflows that turn repetitive processes into reliable, scalable systems.
+I design and build AI-powered agents and automation systems that turn repetitive business processes into intelligent, reliable workflows.
 
-### What I Build
+My focus is on combining **AI agents, workflow automation, APIs, and business tools** to build systems that can actually do useful work, not just generate text.
 
-* 🤖 AI Agents & Agentic Workflows
-* ⚡ Business & Workflow Automation
-* 🔗 API & Third-Party Integrations
-* 🛒 E-commerce Automation
-* 🕷️ Web Scraping & Data Automation
-* 🧠 AI-powered Business Solutions
+---
 
-### Tech Stack
+## 🧠 What I Build
 
-**AI & Automation:**
-n8n • LangFlow • GoHighLevel • OpenAI • Gemini
+**AI Agents**
+Designing task-oriented agents that can reason, use tools, and execute workflows.
 
-**Programming:**
-Python • JavaScript
+**Business Automation**
+Automating repetitive operational processes with event-driven workflows and API integrations.
 
-**Web & Backend:**
-Next.js • REST APIs • MongoDB
+**E-commerce Automation**
+Building automation around products, orders, customers, inventory, reporting, and notifications.
 
-**Tools & Platform:**
-Git • GitHub • Vercel
+**AI-Powered Workflows**
+Connecting AI models with real business systems to create practical end-to-end solutions.
 
-### Featured Work
+**Data & Web Automation**
+Building scraping, processing, and data-driven automation workflows.
 
-🚀 **AI Automation Portfolio**
-My personal portfolio and AI automation platform.
+---
 
-🔗 https://tensorstudio.vercel.app
+## ⚙️ Tech Stack
 
-### Currently Building
+### AI & Automation
 
-AI agents and automation systems focused on turning real-world business processes into intelligent workflows.
+`n8n` `LangFlow` `GoHighLevel` `OpenAI` `Google Gemini`
 
-### Connect
+### Programming
 
-🌐 Portfolio: https://tensorstudio.vercel.app
-🐙 GitHub: https://github.com/muin360
+`Python` `JavaScript`
+
+### Backend & Data
+
+`REST APIs` `MongoDB` `Next.js`
+
+### Tools
+
+`Git` `GitHub` `Vercel`
+
+---
+
+## 🚀 Featured Work
+
+### AI Automation Portfolio
+
+My personal portfolio and AI platform showcasing automation systems, AI capabilities, projects, and experiments.
+
+🔗 **https://tensorstudio.vercel.app**
+
+### WooCommerce Automation
+
+Automation workflows for product management, order processing, reporting, and business operations using AI and workflow automation.
+
+### AI Agent Workflows
+
+Experiments and production-oriented workflows focused on tool-using AI agents, integrations, and intelligent task execution.
+
+---
+
+## 🔭 Currently Building
+
+I'm currently focused on building more capable **AI agents and business automation systems**, with an emphasis on:
+
+* Tool-using AI agents
+* Multi-step workflows
+* API-driven automation
+* E-commerce automation
+* Reliable production systems
+
+---
+
+## 📚 What I'm Learning
+
+Continuously improving my skills in:
+
+`AI Agents` `Automation Architecture` `Python` `JavaScript` `APIs` `System Design`
+
+---
+
+## 🌐 Connect With Me
+
+[🌐 Portfolio](https://tensorstudio.vercel.app) •
+[📘 Facebook Page](https://www.facebook.com/profile.php?id=61588840534814) •
+[🐙 GitHub](https://github.com/muin360) •
+[✉️ Email](arefinmueen360@gmail.com)
+
+---
+
+> **Build systems, automate the repetitive, and let AI handle the work.**
